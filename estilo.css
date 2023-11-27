@@ -3,12 +3,10 @@ body{
 
  color: green;
 font-family: 'Acme',sans-serif;
-font-size: 50px;
+font-size: 30px;
 }
 p{
     color:white
-    
-    font-size: 30px;
 }
 #Kyle{
     width: 100%;
